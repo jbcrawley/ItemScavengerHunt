@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scavenger Hunt</string>
+    <string name="welcome_text">Welcome to Scavenger Hunt!</string>
+    <string name="item_title_hint">Enter an item.</string>
+    <string name="item_details_hint">Enter description of the item</string>
+    <string name="item_title_label">Title</string>
+    <string name="item_details_label">Details</string>
+    <string name="item_found_label">Found</string>
+    <string name="new_item">New Item</string>
+</resources>
